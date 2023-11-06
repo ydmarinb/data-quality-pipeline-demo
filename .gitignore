@@ -1,16 +1,4 @@
-# Ignorar archivos de datos comunes
-*.csv
-*.xlsx
-*.json
-*.xml
-*.txt
-*.dat
 
-
-
-# Ignorar archivos de configuración locales
-config.yaml
-config.json
 
 # Ignorar directorios de entorno virtual
 venv/
