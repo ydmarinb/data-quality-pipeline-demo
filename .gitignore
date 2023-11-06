@@ -1,0 +1,49 @@
+# Ignorar archivos de datos comunes
+*.csv
+*.xlsx
+*.json
+*.xml
+*.txt
+*.dat
+
+
+
+# Ignorar archivos de configuración locales
+config.yaml
+config.json
+
+# Ignorar directorios de entorno virtual
+venv/
+.env
+.env.local
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignorar archivos de paquetes de Python
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.wheelhouse/
+.cache/
+.installed.cfg
+*.egg-link
+
+# Ignorar archivos de IDE o editor
+.idea/
+*.swp
+*.swo
+*.sublime-*
+.vscode/
+*.vscode
